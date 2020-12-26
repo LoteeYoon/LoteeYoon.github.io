@@ -29,7 +29,7 @@ key: page-about
 <!-- # About me -->
 
 <img src="https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/totoro.jpg" alt="Avatar" width="150" height="150">
-*Muah > _*
+*Muah > Hi there, my name is Jaeung Yoon.*
 
 ## Education
 
