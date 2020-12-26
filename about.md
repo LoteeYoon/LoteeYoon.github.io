@@ -26,7 +26,7 @@ titles:
 key: page-about
 ---
 
-About me
+About m
 
 ## Education
 
