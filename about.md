@@ -25,8 +25,7 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-# Education
+## Education
 
   - **Gyeongsang National University, Jinju, Gyeongnam, South Korea (Mar 2014 - Aug 2019)**
 
@@ -37,19 +36,19 @@ key: page-about
     M.S. in Computer Engineering
 
 
-# Interest Fields
+## Interest Fields
 
   - **Deep Reinforcement Learning**
   - **Unsupervised Learning**
   - **Computer Vision**
 
 
-# Skills  
+## Skills  
 
   - **C / C++ / Python**
   - **Tensorflow / Pytorch**
 
-# Course Took  
+## Course Took  
 
   - **Mathematics**
 
@@ -75,10 +74,10 @@ key: page-about
     Machine Learning(Andrew ng) / Stanford CS231n  
     Data Intelligence / Deep Nueral Network / Reinforcement Learning  
 
-# Projects
+## Projects
+<br/>
 
-
-# Contact  
+## Contact  
 
 - email : whgdmswovbd@gmail.com
 - social : [GItHub](https://github.com/LoteeYoon), [Facebook](https://www.facebook.com/whgdmswodnd)
