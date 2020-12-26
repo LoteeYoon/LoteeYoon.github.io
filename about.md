@@ -28,7 +28,7 @@ key: page-about
 
 <!-- # About me -->
 
-![Image](https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/_posts/assets/totoro.jpg){: width="256" height="256"}{:.border}
+<img src="https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/_posts/assets/totoro.jpg" alt="Avatar" width="100" height="100">
 
 ## Education
 
