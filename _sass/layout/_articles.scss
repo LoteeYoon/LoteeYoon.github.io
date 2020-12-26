@@ -10,7 +10,7 @@
   .card__image {
     & > .overlay {
       &, .card__header {
-        font-size: map-get($base, font-size-xs);
+        font-size: map-get($base, font-size-h4);
       }
     }
   }
