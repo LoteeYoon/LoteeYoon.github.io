@@ -30,8 +30,7 @@ key: page-about
 
 <img src="https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/totoro.jpg" alt="Avatar" width="150" height="150">
 
-
-    *Muah > Hi there, my name is Jaeung Yoon.*
+#### Muah > Hi there, my name is Jaeung Yoon.
 
 ## Education
 
