@@ -25,6 +25,8 @@ titles:
   # @end locale config
 key: page-about
 ---
+# About me
+
 ## Education
 
   - **Gyeongsang National University, Jinju, Gyeongnam, South Korea (Mar 2014 - Aug 2019)**
