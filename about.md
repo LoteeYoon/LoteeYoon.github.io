@@ -26,49 +26,59 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+# Education
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+  - **Gyeongsang National University, Jinju, Gyeongnam, South Korea (Mar 2014 - Aug 2019)**
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+    B.S. in Chemical Engineering
 
-## Features
+  - **Inha University, Incheon, South Korea (Mar 2020 - )**
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+    M.S. in Computer Engineering
 
-## Skins
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+# Interest Fields
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+  - **Deep Reinforcement Learning**
+  - **Unsupervised Learning**
+  - **Computer Vision**
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
 
-### Highlight Theme
+# Skills  
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+  - **C / C++ / Python**
+  - **Tensorflow / Pytorch**
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+# Course Took  
+
+  - **Mathematics**
+
+    Calculus / Linear Algebra / Statistics    
+
+  - **Chemical Engineering**
+
+    Thermodynamics / Fluid Dynamics / Heat & Mass Transfer   
+    Chemical Process / Process Control / Reaction Engineering / Separation Process  
+
+  - **Electronics**
+
+    Signals and Systems / Digital Logic Circuit   
+
+
+  - **Computer Engineering**
+
+    OOP / DataStructure / Algorithms / DataBase / Unix Programming / Data Mining  
+
+
+  - **Machine Learning**
+
+    Machine Learning(Andrew ng) / Stanford CS231n  
+    Data Intelligence / Deep Nueral Network / Reinforcement Learning  
+
+# Projects
+
+
+# Contact  
+
+- email : whgdmswovbd@gmail.com
+- social : [GItHub](https://github.com/LoteeYoon), [Facebook](https://www.facebook.com/whgdmswodnd)
