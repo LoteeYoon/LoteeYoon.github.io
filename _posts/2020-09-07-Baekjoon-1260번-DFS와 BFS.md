@@ -3,7 +3,7 @@ title: Baekjoon 1260번 DFS와 BFS
 author: Yoon Jaeung
 data: 2020-09-07 02:18:00 +0800
 categories: [Blogging, algorithms]
-tags: [algorithms]
+tags: Algorithms
 toc: false
 ---
 
