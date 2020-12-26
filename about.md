@@ -82,4 +82,4 @@ key: page-about
 ## Contact  
 
 - email : whgdmswovbd@gmail.com
-- social : [GItHub](https://github.com/LoteeYoon), [Facebook](https://www.facebook.com/whgdmswodnd)
+- social : [GItHub](https://github.com/LoteeYoon), [Facebook](https://www.facebook.com/whgdmswodnd), [Twitter](https://www.twitter.com/LoteeYoon)
