@@ -1,6 +1,6 @@
 ---
 layout: article
-titles: About me
+titles:
   # @start locale config
   en      : &EN       About
   en-GB   : *EN
@@ -26,6 +26,7 @@ titles: About me
 key: page-about
 ---
 
+About me
 
 ## Education
 
