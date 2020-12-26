@@ -23,7 +23,7 @@
       visibility: hidden;
       opacity: 0;
       & > i {
-        font-size: map-get($base, font-size-h4);
+        font-size: map-get($base, font-size-sm);
       }
     }
     @include hover() {
