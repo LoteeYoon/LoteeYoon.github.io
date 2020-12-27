@@ -1,11 +1,15 @@
 ---
 layout: article
 title: Baekjoon 1260번 DFS와 BFS
-
-
-
 tags: Algorithms
-
+#comments: true
+#article_header:
+#  type: cover
+#  image:
+#    src:
+aside:
+  toc: true
+key: page-aside
 ---
 
 ## C++ Code
