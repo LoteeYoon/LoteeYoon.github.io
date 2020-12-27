@@ -2,7 +2,7 @@
 layout: article
 title: Baekjoon 1260번 DFS와 BFS
 
-data: 2020-09-07 02:18:00 +0800
+
 
 tags: Algorithms
 toc: false
@@ -10,7 +10,7 @@ toc: false
 
 ## C++ Code
 
-```C++
+```cpp
 #include <iostream>
 #include <queue>
 using namespace std;
