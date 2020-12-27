@@ -211,7 +211,7 @@ defaults:
       comments: true
       license: true
       aside:
-        toc: false
+        
       show_edit_on_github: true
       show_subscribe: false
       pageview: true
