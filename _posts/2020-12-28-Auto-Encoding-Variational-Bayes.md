@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Auto Encoding Variational Bayes
-tags: MachineLearning Paper
+tags: Paper
 aside:
   toc: true
 key: page-aside

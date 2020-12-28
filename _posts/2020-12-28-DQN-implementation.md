@@ -1,7 +1,7 @@
 ---
 layout: article
 title: DQN Implementation
-tags: MachineLearning Practice
+tags: Practice
 aside:
   toc: true
 key: page-aside

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Deep Recurrent Q-Learning for Partially Obsevable MDPs
-tags: MachineLearning Paper
+tags: Paper
 aside:
   toc: true
 key: page-aside
