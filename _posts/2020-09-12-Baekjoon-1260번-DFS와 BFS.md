@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Baekjoon 1260번 DFS와 BFS
-tags: Algorithms
+tags: Lifelog
 #comments: true
 #article_header:
 #  type: cover
