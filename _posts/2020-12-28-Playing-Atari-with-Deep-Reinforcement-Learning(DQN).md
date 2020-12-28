@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Playing Atari with Deep Reinforcement Learning
-tags: MachineLearning, Paper
+tags: Algorithms, Paper
 aside:
   toc: true
 key: page-aside
