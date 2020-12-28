@@ -1,6 +1,6 @@
 ---
 layout: article
-title: [RL] Off-Policy Control
+title: Off-Policy Control
 tags: MachineLearning
 aside:
   toc: true
