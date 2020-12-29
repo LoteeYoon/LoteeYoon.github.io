@@ -76,12 +76,12 @@ header:
 
 docs-en:
   - title: Algorithms
-      children:
-        - title: Baekjoon
-          url: /archive.html/tag=Baekjoon
+    children:
+      - title: Baekjoon
+        url: /archive.html/tag=Baekjoon
   - title: MachineLearning
-      children:
-        - title: RL
-          url: /archive.html/tag=RL
-        - title: ML
-          url: /archive.html/tag=ML
+    children:
+      - title: RL
+        url: /archive.html/tag=RL
+      - title: ML
+        url: /archive.html/tag=ML
