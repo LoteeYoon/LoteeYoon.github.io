@@ -75,7 +75,7 @@ header:
     url: /about.html
 
 docs-en:
-  - title: Mathematics
+  - title: MachineLearning
     children:
       - title: Statistics
         url: /archive.html?tag=Statistics
@@ -83,14 +83,12 @@ docs-en:
         url: /archive.html?tag=Linear-Algebra
       - title: Probabilistic Inference
         url: /archive.html?tag=Probabilistic-Inference
-  - title: MachineLearning
-    children:
-      - title: ML
-        url: /archive.html?tag=ML
-      - title: DL
-        url: /archive.html?tag=DL
-      - title: RL
-        url: /archive.html?tag=RL
+      - title: Data Intelligence
+        url: /archive.html?tag=Data-Intelligence
+      - title: Deep Neural Networks
+        url: /archive.html?tag=Deep-Neural-Networks
+      - title: Reinforcement Learning
+        url: /archive.html?tag=Reinforcement-Learning
       - title: Practice
         url: /archive.html?tag=Practice
   - title: Literature
