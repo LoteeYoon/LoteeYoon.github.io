@@ -77,8 +77,6 @@ header:
 docs-en:
   - title: Mathematics
     children:
-      - title: Calculus
-        url: /archive.html?tag=Calculus
       - title: Statistics
         url: /archive.html?tag=Statistics
       - title: Linear_Algebra
