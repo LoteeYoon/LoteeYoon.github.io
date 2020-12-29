@@ -79,10 +79,10 @@ docs-en:
     children:
       - title: Statistics
         url: /archive.html?tag=Statistics
-      - title: Linear_Algebra
-        url: /archive.html?tag=Linear_Algebra
-      - title: Probabilistic_Inference
-        url: /archive.html?tag=Probabilistic_Inference
+      - title: Linear Algebra
+        url: /archive.html?tag=Linear-Algebra
+      - title: Probabilistic Inference
+        url: /archive.html?tag=Probabilistic-Inference
   - title: MachineLearning
     children:
       - title: ML
