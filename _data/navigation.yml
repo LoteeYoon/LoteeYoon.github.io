@@ -107,3 +107,5 @@ docs-en:
         url: /archive.html?tag=Baekjoon
       - title: LeetCode
         url: /archive.html?tag=LeetCode
+      - title: 파이썬 알고리즘 인터뷰
+        url: /archive.html?tag=파이썬-알고리즘-인터뷰
