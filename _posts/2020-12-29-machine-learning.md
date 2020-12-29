@@ -1,7 +1,7 @@
 ---
 layout: article
 title: (RL) Off-Policy Control
-tags: ML_Theory
+tags: RL
 aside:
   toc: true
 key: page-aside
