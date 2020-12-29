@@ -75,17 +75,39 @@ header:
     url: /about.html
 
 docs-en:
+  - title: Mathematics
+    children:
+      - title: Calculus
+        url: /archive.html?tag=Calculus
+      - title: Statistics
+        url: /archive.html?tag=Statistics
+      -title: Linear_Algebra
+        url: /archive.html?tag=Linear_Algebra
+      -title: Probabilistic_Inference
+        url: /archive.html?tag=Probabilistic_Inference
+  - title: MachineLearning
+    children:
+      - title: ML
+        url: /archive.html?tag=ML
+      - title: DL
+        url: /archive.html?tag=DL
+      - title: RL
+        url: /archive.html?tag=RL
+      -title: Practice
+        url: /archive.html?tag=Practice
+  - title: Literature
+    children:
+      - title: Papers
+        url: /archive.html?tag=Papers
+  -title: Skills
+    children:
+      - title: Language
+        url: /archive.html?tag=Language
+      -title: Framework
+        url: /archive.html?tag=Framework
   - title: Algorithms
     children:
       - title: Baekjoon
         url: /archive.html?tag=Baekjoon
-  - title: MachineLearning
-    children:
-      - title: RL
-        url: /archive.html?tag=RL
-        children:
-          - title: reinforcement
-            url: /archive.html?tag=reinforcement
-      - title: ML
-        url: /archive.html?tag=ML
-  - title:
+      -title: LeetCode
+        url: /archive.html?tag=LeetCode
