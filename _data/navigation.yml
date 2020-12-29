@@ -85,6 +85,7 @@ docs-en:
         url: /archive.html?tag=RL
         children:
           - title: reinforcement
+            url: /archive.html?tag=reinforcement
       - title: ML
         url: /archive.html?tag=ML
   - title:
