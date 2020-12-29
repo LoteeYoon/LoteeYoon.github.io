@@ -79,7 +79,6 @@ docs-en:
     children:
       - title: Baekjoon
         url: /archive.html?tag=Baekjoon
-
   - title: MachineLearning
       children:
         - title: RL
