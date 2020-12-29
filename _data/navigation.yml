@@ -81,9 +81,9 @@ docs-en:
         url: /archive.html?tag=Calculus
       - title: Statistics
         url: /archive.html?tag=Statistics
-      -title: Linear_Algebra
+      - title: Linear_Algebra
         url: /archive.html?tag=Linear_Algebra
-      -title: Probabilistic_Inference
+      - title: Probabilistic_Inference
         url: /archive.html?tag=Probabilistic_Inference
   - title: MachineLearning
     children:
@@ -93,21 +93,21 @@ docs-en:
         url: /archive.html?tag=DL
       - title: RL
         url: /archive.html?tag=RL
-      -title: Practice
+      - title: Practice
         url: /archive.html?tag=Practice
   - title: Literature
     children:
       - title: Papers
         url: /archive.html?tag=Papers
-  -title: Skills
+  - title: Skills
     children:
       - title: Language
         url: /archive.html?tag=Language
-      -title: Framework
+      - title: Framework
         url: /archive.html?tag=Framework
   - title: Algorithms
     children:
       - title: Baekjoon
         url: /archive.html?tag=Baekjoon
-      -title: LeetCode
+      - title: LeetCode
         url: /archive.html?tag=LeetCode
