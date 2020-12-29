@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Generative Adversarial Nets
-tags: Paper
+tags: Papers
 aside:
   toc: true
 key: page-aside
