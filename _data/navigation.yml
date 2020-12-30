@@ -82,6 +82,7 @@ docs-en:
       - title: Articles
         url: /archive.html?tag=Articles
       - title: Practice
+        url: /archive.html?tag=Practice
   - title: 수학
     children:
       - title: Linear Algebra
