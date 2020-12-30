@@ -79,8 +79,9 @@ docs-en:
     children:
       - title: Reinforcement Learning
         url: /archive.html?tag=Reinforcement-Learning
-      - title: Deepmind Articles
-        url: /archive.html?tag=Deepmind-Articles
+      - title: Articles
+        url: /archive.html?tag=Articles
+      - title: Practice
   - title: 수학
     children:
       - title: Linear Algebra
