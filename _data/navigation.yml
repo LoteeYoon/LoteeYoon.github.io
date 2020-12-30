@@ -75,37 +75,28 @@ header:
     url: /about.html
 
 docs-en:
-  - title: MachineLearning
+  - title: 강화학습
     children:
-      - title: Statistics
-        url: /archive.html?tag=Statistics
-      - title: Linear Algebra
-        url: /archive.html?tag=Linear-Algebra
-      - title: Probabilistic Inference
-        url: /archive.html?tag=Probabilistic-Inference
-      - title: Data Intelligence
-        url: /archive.html?tag=Data-Intelligence
-      - title: Deep Neural Networks
-        url: /archive.html?tag=Deep-Neural-Networks
       - title: Reinforcement Learning
         url: /archive.html?tag=Reinforcement-Learning
-      - title: Practice
-        url: /archive.html?tag=Practice
-  - title: Literature
+      - title: Deepmind Articles
+        url: /archive.html?tag=Deepmind-Articles
+  - title: 수학
     children:
-      - title: Papers
-        url: /archive.html?tag=Papers
-  - title: Skills
+      - title: Linear Algebra
+        url: /archive.html?tag=Linear-Algebra
+      - title: Statistics
+        url: /archive.html?tag=Statistics
+    url: /archive.html?tag=Linear
+  - title: 논문정리
+    url: /archive.html?tag=논문정리
+  - title: 연구일지
+    url: /archive.html?tag=연구일지
+  - title: 알고리즘
     children:
-      - title: Language
-        url: /archive.html?tag=Language
-      - title: Framework
-        url: /archive.html?tag=Framework
-  - title: Algorithms
-    children:
-      - title: Baekjoon
-        url: /archive.html?tag=Baekjoon
+      - title: BOJ
+        url: /archive.html?tag=BOJ
       - title: LeetCode
         url: /archive.html?tag=LeetCode
-      - title: 파이썬 알고리즘 인터뷰
-        url: /archive.html?tag=파이썬-알고리즘-인터뷰
+  - title: 생각정리
+    url: /archive.html?tag=생각정리
