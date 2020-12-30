@@ -89,15 +89,21 @@ docs-en:
       - title: Statistics
         url: /archive.html?tag=Statistics
     url: /archive.html?tag=Linear
-  - title: 논문정리
-    url: /archive.html?tag=논문정리
-  - title: 연구일지
-    url: /archive.html?tag=연구일지
+  - title: 논문
+    children:
+      - title: 논문정리
+        url: /archive.html?tag=논문정리
+  - title: 연구
+    children:
+      - title: 연구일지
+        url: /archive.html?tag=연구일지
   - title: 알고리즘
     children:
       - title: BOJ
         url: /archive.html?tag=BOJ
       - title: LeetCode
         url: /archive.html?tag=LeetCode
-  - title: 생각정리
-    url: /archive.html?tag=생각정리
+  - title: 생각
+    children:
+      - title: 생각정리
+        url: /archive.html?tag=생각정리
