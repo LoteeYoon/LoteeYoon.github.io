@@ -48,4 +48,4 @@ neural network와 RL을 결합하려는 이전의 시도에서는 불안정한 �
 
 ---
 
-![image](./_posts/_assets/Atari2600.jpg)
+![Image](https://raw.github.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/Atari2600.jpg)
