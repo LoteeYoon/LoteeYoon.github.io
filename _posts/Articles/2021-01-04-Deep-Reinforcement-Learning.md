@@ -24,6 +24,6 @@ key: page-aside
 인간은 저차원의 motor control에서부터 고차원의 인지 작업에 이르기까지 다양한 문제를 해결하는 데 탁월하며, Deepmind의 목표는 인간과 비슷한 수준의 능력을 달성할 수 있는 artificial agents를 만드는 것이라고 합니다.
 <br/>
 
-agent는 인간처럼 Long-term rewards를 가장 크게 이끌어내는 전략을 스스로 학습하고, 이러한 시행착오에 의해 학습하는 paradigm을 RL이라고 합니다.
+Deepmind의 agent는 인간처럼 Long-term rewards를 가장 크게 이끌어내는 전략을 스스로 학습하고, 이러한 시행착오에 의한 학습 paradigm을 RL이라고 합니다. 또한, agent는 어떠한 hand-engineered features나 domain heuristics 없이 단순히 vision과 같은 raw inputs로부터 학습이 가능한데, 이는 neural networks에 의해 가능해졌습니다.
 
 <br/>
