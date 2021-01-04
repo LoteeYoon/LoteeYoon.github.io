@@ -61,3 +61,17 @@ Nature에 발표한 논문에서 50개의 서로 다른 Atari 게임에 DQN agen
 차후 dynamics 안정화, experiences 우선순위화 그리고 output을 normalising, aggregating, re-scaling 하는 방식으로 DQN을 발전시켰더니 Atari 게임에서 평균 점수가 300%가 넘게 향상되었다고 합니다. 이젠 거의 모든 아타리 게임에서 인간 수준의 성능이 달성된 것입니다.
 
 ---
+
+>We recently introduced an even more practical and effective method based on asynchronous RL. This approach exploits the multithreading capabilities of standard CPUs. The idea is to execute many instances of our agent in parallel, but using a shared model. This provides a viable alternative to experience replay, since parallelisation also diversifies and decorrelates the data.
+
+---
+
+Deepmind는 Deep Q-network 이외에도 Asynchronous RL을 기반으로 한 훨씬 더 실용적이고 효과적인 방법을 도입했습니다. 아이디어는 agent가 많은 instance를 병렬로 실행하지만 모델을 공유하는 것입니다. 이는 병렬화가 데이터를 diversify 하고 decorrelate 하기 때문에 experience replay를 대체할 수 있다고 합니다.
+
+---
+
+>Our asynchronous actor-critic algorithm, A3C, combines a deep Q-network with a deep policy network for selecting actions. It achieves state-of-the-art results, using a fraction of the training time of DQN and a fraction of the resource consumption of Gorila.
+
+---
+
+Asynchronous actor-critic 알고리즘인 A3C는 action을 선택하기 위해 deep policy network를 deep Q-network와 결합합니다. 이는 DQN의 trainig time 일부와 Gorila의 자원 일부를 사용하여 SOTA를 달성했다고 합니다. 
