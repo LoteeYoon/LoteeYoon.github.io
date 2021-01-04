@@ -10,3 +10,6 @@ key: page-aside
 #### 매일 한 편씩 Deepmind blog post 읽기
 
 Deepmind > Blog > [Deep Reinforcement Learning](https://deepmind.com/blog/article/deep-reinforcement-learning){: target="_blank"}
+
+authors : David Silver
+Date : 17 Jun 2016
