@@ -45,7 +45,19 @@ Deepmind는 여러 분야에서 human-level의 성능을 달성할 수 있는 ag
 ---
 
 neural network와 RL을 결합하려는 이전의 시도에서는 불안정한 학습때문에 실패했었는데, 이러한 문제를 해결하기 위해 DQN 알고리즘은 agent의 모든 experiences를 저장해놓고 random sampling을 통해 decorrelated training data를 만들어 학습에 이용했습니다.
+<br/>
+
+Nature에 발표한 논문에서 50개의 서로 다른 Atari 게임에 DQN agent를 적용했더니 거의 절반의 게임에서 인간 수준의 성능을 달성했다고 합니다. 이는 이전의 어떤 방식보다 월등히 높은 수치라고 하네요.
+
+![Image](https://raw.github.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/Atari2600.jpg)
+
 
 ---
 
-![Image](https://raw.github.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/Atari2600.jpg)
+>We have subsequently improved the DQN algorithm in many ways: further stabilising the learning dynamics; prioritising the replayed experiences; normalising, aggregating and re-scaling the outputs. Combining several of these improvements together led to a 300% improvement in mean score across Atari games; human-level performance has now been achieved in almost all of the Atari games.
+
+---
+
+차후 dynamics 안정화, experiences 우선순위화 그리고 output을 normalising, aggregating, re-scaling 하는 방식으로 DQN을 발전시켰더니 Atari 게임에서 평균 점수가 300%가 넘게 향상되었다고 합니다. 이젠 거의 모든 아타리 게임에서 인간 수준의 성능이 달성된 것입니다.
+
+---
