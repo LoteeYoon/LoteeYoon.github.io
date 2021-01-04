@@ -7,7 +7,7 @@ aside:
 key: page-aside
 ---
 
-#### 매일 한 편씩 Deepmind blog post 읽기
+#### 매일 Deepmind blog post 한 편 읽기
 
 Deepmind > Blog > [Deep Reinforcement Learning](https://deepmind.com/blog/article/deep-reinforcement-learning){: target="_blank"}
 
