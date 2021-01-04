@@ -27,3 +27,5 @@ key: page-aside
 Deepmind의 agent는 인간처럼 Long-term rewards를 가장 크게 이끌어내는 전략을 스스로 학습하고, 이러한 시행착오에 의한 학습 paradigm을 RL이라고 합니다. 또한, agent는 어떠한 hand-engineered features나 domain heuristics 없이 단순히 vision과 같은 raw inputs로부터 학습이 가능한데, 이는 neural networks에 의해 가능해졌습니다.
 
 <br/>
+
+Deepmind는 여러 분야에서 human-level의 성능을 달성할 수 있는 agents를 만들기 위해 위의 approache들의 조합을 여러 방식으로 개척했다고 합니다.
