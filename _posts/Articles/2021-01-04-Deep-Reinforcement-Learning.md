@@ -11,6 +11,6 @@ key: page-aside
 
 &nbsp;&nbsp;&nbsp;Deepmind > Blog > [Deep Reinforcement Learning](https://deepmind.com/blog/article/deep-reinforcement-learning){: target="_blank"}
 
-authors : David Silver
+&nbsp;&nbsp;&nbsp;authors : David Silver
 <br/>
-Date : 17 Jun 2016
+&nbsp;&nbsp;&nbsp;Date : 17 Jun 2016
