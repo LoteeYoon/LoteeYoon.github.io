@@ -1,6 +1,6 @@
 ---
 layout: article
-title: [Deepmind]Deep Reinforcement Learning
+title: Deep Reinforcement Learning
 tags: Articles
 aside:
   toc: true
