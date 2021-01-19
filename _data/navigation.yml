@@ -114,7 +114,3 @@ docs-en:
         url: /archive.html?tag=BOJ
       - title: LeetCode
         url: /archive.html?tag=LeetCode
-  - title: 생각
-    children:
-      - title: 생각정리
-        url: /archive.html?tag=생각정리
