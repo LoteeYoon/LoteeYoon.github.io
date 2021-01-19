@@ -96,8 +96,8 @@ docs-en:
     children:
       - title: PRML
         url: /archive.html?tag=PRML
-      - title: Deepmind Articles
-        url: /archive.html?tag=Deepmind-Articles
+      - title: Articles
+        url: /archive.html?tag=Articles
       - title: PR12
         url: /archive.html?tag=PR12
   - title: 논문
