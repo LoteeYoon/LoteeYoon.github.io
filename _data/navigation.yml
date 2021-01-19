@@ -85,21 +85,22 @@ docs-en:
     children:
       - title: Deep Learning
         url: /archive.html?tag=Deep-Learning
+  - title: 머신러닝
+    children:
+      - title: PRML
+        url: /archive.html?tag=PRML
   - title: 수학
     children:
       - title: Linear Algebra
         url: /archive.html?tag=Linear-Algebra
       - title: Statistics
         url: /archive.html?tag=Statistics
-    url: /archive.html?tag=Linear
-  - title: 스터디
+  - title: 알고리즘
     children:
-      - title: PRML
-        url: /archive.html?tag=PRML
-      - title: Articles
-        url: /archive.html?tag=Articles
-      - title: PR12
-        url: /archive.html?tag=PR12
+      - title: BOJ
+        url: /archive.html?tag=BOJ
+      - title: LeetCode
+        url: /archive.html?tag=LeetCode
   - title: 논문
     children:
       - title: 논문정리
@@ -108,9 +109,3 @@ docs-en:
     children:
       - title: 연구일지
         url: /archive.html?tag=연구일지
-  - title: 알고리즘
-    children:
-      - title: BOJ
-        url: /archive.html?tag=BOJ
-      - title: LeetCode
-        url: /archive.html?tag=LeetCode
