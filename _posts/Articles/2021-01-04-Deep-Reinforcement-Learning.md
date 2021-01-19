@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Deep Reinforcement Learning
-tags: Deepmind Articles
+tags: Deepmind_Articles
 aside:
   toc: true
 key: page-aside
