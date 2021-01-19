@@ -81,7 +81,7 @@ docs-en:
         url: /archive.html?tag=Reinforcement-Learning
       - title: Practice
         url: /archive.html?tag=Practice
-  -title: 딥러닝
+  - title: 딥러닝
     children:
       - title: Deep Learning
         url: /archive.html?tag=Deep-Learning
