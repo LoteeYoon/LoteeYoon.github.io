@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Deep Reinforcement Learning
-tags: Articles
+tags: Deepmind-Articles
 aside:
   toc: true
 key: page-aside
@@ -74,4 +74,4 @@ Deepmind는 Deep Q-network 이외에도 Asynchronous RL을 기반으로 한 훨�
 
 ---
 
-Asynchronous actor-critic 알고리즘인 A3C는 action을 선택하기 위해 deep policy network를 deep Q-network와 결합합니다. 이는 DQN의 trainig time 일부와 Gorila의 자원 일부를 사용하여 SOTA를 달성했다고 합니다. 
+Asynchronous actor-critic 알고리즘인 A3C는 action을 선택하기 위해 deep policy network를 deep Q-network와 결합합니다. 이는 DQN의 trainig time 일부와 Gorila의 자원 일부를 사용하여 SOTA를 달성했다고 합니다.

@@ -79,8 +79,6 @@ docs-en:
     children:
       - title: Reinforcement Learning
         url: /archive.html?tag=Reinforcement-Learning
-      - title: Articles
-        url: /archive.html?tag=Articles
       - title: Practice
         url: /archive.html?tag=Practice
   - title: 수학
@@ -90,6 +88,12 @@ docs-en:
       - title: Statistics
         url: /archive.html?tag=Statistics
     url: /archive.html?tag=Linear
+  - title: 스터디
+    children:
+      - title: PRML
+        url: /archive.html?tag=PRML
+      - title: Deepmind Articles
+        url: /archive.html?tag=Deepmind-Articles
   - title: 논문
     children:
       - title: 논문정리
