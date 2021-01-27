@@ -17,8 +17,7 @@ key: page-aside
 
   &nbsp;&nbsp;-> reward를 모르는 채로 slot machine을 당기는 문제와 같다
 
-  ![Image](https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/slot_machine.png)
-<br/>
+<img src="https://raw.githubusercontent.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/slot_machine.png">
 
 - What makes a bandit problem?
 
@@ -27,3 +26,6 @@ key: page-aside
     1) reward에 대해 모르는 채로 action 선택
 
     2) 선택에 대해 feedback(reward)이 주어진다
+
+
+- Model : Finite Armed Bandits
