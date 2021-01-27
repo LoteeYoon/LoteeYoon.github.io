@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Multi Armed Bandits
+title: (Ch01) Multi Armed Bandits
 tags: Reinforcement-Learning
 aside:
   toc: true
