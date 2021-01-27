@@ -113,7 +113,3 @@ docs-en:
     children:
       - title: 논문정리
         url: /archive.html?tag=논문정리
-  - title: 연구
-    children:
-      - title: 연구일지
-        url: /archive.html?tag=연구일지
