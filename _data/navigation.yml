@@ -95,7 +95,7 @@ docs-en:
         url: /archive.html?tag=PRML
       - title: PR12
         url: /archive.html?tag=PR12
-      -title: Article
+      - title: Article
         url: /archive.html?tag=Article
   - title: 수학
     children:
