@@ -8,10 +8,9 @@ key: page-aside
 ---
 
 수업들은 내용을 요약 정리한 글입니다.
-
 [David Silver lecture slide](https://www.davidsilver.uk/teaching/) 를 수업자료로 활용하였습니다.
 
--------------------------
+* * *
 
 
 - Multi Armed Bandits이란?
