@@ -15,7 +15,10 @@ key: page-aside
 
 - Multi Armed Bandits이란?
 
-  &nbsp;&nbsp;slot machines with unknown rewards
+  &nbsp;&nbsp;-> reward를 모르는 채로 slot machine을 당기는 문제와 같다.
+
+  ![png](/_posts/_assets/slot_machine.PNG)
+<br/>
 
 - What makes a bandit problem?
 
