@@ -17,7 +17,7 @@ key: page-aside
 
   &nbsp;&nbsp;-> reward를 모르는 채로 slot machine을 당기는 문제와 같다
 
-![png](/_posts/_assets/slot_machine.png)
+<img src="https://raw.githubcontent.com/LoteeYoon/LoteeYoon.github.io/master/_posts/_assets/slot_machine.png" alt="Avatar" width="100" height="100">
 
 - What makes a bandit problem?
 
