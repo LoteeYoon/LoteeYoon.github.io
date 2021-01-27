@@ -1,7 +1,7 @@
 ---
 layout: article
 title: [Ch01] Multi Armed Bandits
-tags: Reinforcement_Learning
+tags: Reinforcement-Learning
 aside:
   toc: true
 key: page-aside
