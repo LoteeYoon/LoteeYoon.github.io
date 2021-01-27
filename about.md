@@ -81,7 +81,7 @@ sidebar:
   - **Machine Learning**
 
     Machine Learning(Andrew ng) / Stanford CS231n  
-    Data Intelligence / Deep Nueral Network / Reinforcement Learning  
+    Data Intelligence / Deep Neural Network / Reinforcement Learning  
 
 ## Projects
 <br/>

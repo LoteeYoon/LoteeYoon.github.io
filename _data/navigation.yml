@@ -83,12 +83,20 @@ docs-en:
         url: /archive.html?tag=Practice
   - title: 딥러닝
     children:
-      - title: Deep Learning
-        url: /archive.html?tag=Deep-Learning
+      - title: Deep Neural Network
+        url: /archive.html?tag=Deep-Neural-Network
   - title: 머신러닝
+    children:
+      - title: Data Intelligence
+        url: /archive.html?tag=Data-Intelligence
+  - title: 스터디
     children:
       - title: PRML
         url: /archive.html?tag=PRML
+      - title: PR12
+        url: /archive.html?tag=PR12
+      -title: Article
+        url: /archive.html?tag=Article
   - title: 수학
     children:
       - title: Linear Algebra
