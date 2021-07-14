@@ -75,41 +75,15 @@ header:
     url: /about.html
 
 docs-en:
-  - title: 강화학습
+  - title: 논문
     children:
-      - title: Reinforcement Learning
-        url: /archive.html?tag=Reinforcement-Learning
-      - title: Practice
-        url: /archive.html?tag=Practice
-  - title: 딥러닝
-    children:
-      - title: Deep Neural Network
-        url: /archive.html?tag=Deep-Neural-Network
-  - title: 머신러닝
-    children:
-      - title: Data Intelligence
-        url: /archive.html?tag=Data-Intelligence
-  - title: 수학
-    children:
-      - title: Linear Algebra
-        url: /archive.html?tag=Linear-Algebra
-      - title: Statistics
-        url: /archive.html?tag=Statistics
-  - title: 스터디
-    children:
-      - title: PRML
-        url: /archive.html?tag=PRML
-      - title: PR12
-        url: /archive.html?tag=PR12
-      - title: Article
-        url: /archive.html?tag=Article
+      - title: 논문정리
+        url: /archive.html?tag=논문정리
+      - title: 논문구현
+        url: /archive.html?tag=논문구현
   - title: 알고리즘
     children:
       - title: BOJ
         url: /archive.html?tag=BOJ
       - title: LeetCode
         url: /archive.html?tag=LeetCode
-  - title: 논문
-    children:
-      - title: 논문정리
-        url: /archive.html?tag=논문정리
