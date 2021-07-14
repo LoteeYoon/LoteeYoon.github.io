@@ -47,9 +47,8 @@ sidebar:
 
 ## Interest Fields
 
-  - **Deep Reinforcement Learning**
-  - **Unsupervised Learning**
-  - **Computer Vision**
+  - **Reinforcement Learning**
+  - **Uncertainty**
 
 
 ## Skills  
